@@ -1,0 +1,7 @@
+npm-debug.log
+node_modules
+.env
+.idea
+.vscode
+public/sitemaps/json/*
+public/sitemaps/xml/*
