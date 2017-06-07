@@ -5,10 +5,7 @@ This project is developmental.
 ### Install dependencies
 
 ```
-
 npm install 
-
-
 ```
 
 ### Modify sitemap-generator module to add xsl stylesheet.
@@ -22,9 +19,6 @@ npm install
 ### Run
 
 ```
-
 npm run dev
-
-
 ```
 
